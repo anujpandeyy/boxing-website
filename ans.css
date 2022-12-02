@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#ans{
+    background-color: #45454545;
+}
+
+h3{
+    color: white;
+}

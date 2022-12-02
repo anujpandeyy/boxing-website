@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+h1{
+    position: relative;
+    top: 1em;
+    left: 1em;
+    font-size: 150px;
+    color:#8e84ff;
+}
+
+img{
+    position: relative;
+    top: 15em;
+    left: 15em;
+    width: 300px;
+}

@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#about{
+    height: 100vh;
+    background-color: #454545;
+}
+
+#s{
+    font-weight: bolder;
+    font-size: 55px;
+    color:#8e84ff;
+    position: relative;
+    top: 0.5em;
+    left: 1em;
+}
+
+#img8{
+    position: relative;
+    top: 7em;
+    left: 5em;
+    border-radius: 50%;
+    width: 30em;
+    height: 30em;
+}
+
+p{
+    position: relative;
+    font-weight: bolder;
+    color: white;
+    width: 37%;
+    text-align: justify;
+    left: 50em;
+    bottom: 25em;
+}
+
+
+#b1{
+    position: relative;
+    left: 1em;
+    top: 9em;
+    font-weight: bolder;
+    font-size: 20px;
+    background-color: #8e84ff;
+    padding: 10px 20px;
+    border-radius: 25px;
+}

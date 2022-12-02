@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#contact{
+    height: 100vh;
+    background-color: #454545;
+}
+
+#cs{
+    position: relative;
+    width: 25%;
+    top: 5em;
+    left: 15em;
+}
+
+#form{
+    position: relative;
+    left: 52em;
+    bottom: 21em;
+}
+
+#fname{
+    position: relative;
+    border-radius: 25px;
+    padding: 10px 40px;
+}
+
+#lname{
+        position: relative;
+        border-radius: 25px;
+        padding: 10px 40px;
+}
+
+#email{
+        position: relative;
+        top: 5em;
+        right: 37.5em;
+        border-radius: 25px;
+        padding: 10px 90px;
+}
+
+#message{
+    position: relative;
+    right: 63em;
+    top: 15em;
+}
+
+#b1{
+    position: relative;
+    right: 92em;
+    top: 18em;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-weight: bolder;
+    background-color: #8e84ff;
+}
+
+#b2{
+    position: relative;
+    top: 23em;
+    right: 25em;
+    font-size: 15px;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-weight: bolder;
+    background-color: #8e84ff;
+}
